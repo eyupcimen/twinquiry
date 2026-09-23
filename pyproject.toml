@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "twinquiry"
+version = "0.1.0"
+description = "Independent research, cross-model review, and traceable comparisons with Claude and Codex."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "eyupcimen"}]
+dependencies = []
+
+[project.scripts]
+twinquiry = "twinquiry.__main__:main"
+
+[project.urls]
+Repository = "https://github.com/eyupcimen/twinquiry"
+Issues = "https://github.com/eyupcimen/twinquiry/issues"
+
+[tool.setuptools.packages.find]
+include = ["twinquiry*"]

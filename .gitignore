@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+.DS_Store
+.env
+.env.*
+sessions/
+**/attempts/
+**/dossier.json
+**/state.json
+**/pending.json
+**/pending-prompt.txt
+**/.lock
+*.local.json
