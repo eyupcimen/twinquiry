@@ -6,6 +6,17 @@ Twinquiry runs research and cross-review through your local Claude Code and Code
 
 [Quick start](#quick-start) · [Türkçe rehber](docs/README.tr.md) · [Protocol](docs/protocol.md) · [Related projects](docs/related-projects.md)
 
+## Watch the overview
+
+A 50-second walkthrough of independent answers, cross-review and the final report. Choose a language to watch the video.
+
+| English | Türkçe | Deutsch |
+| :---: | :---: | :---: |
+| [<img src="docs/media/twinquiry-en.jpg" width="220" alt="Watch the English Twinquiry overview">](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-en.mp4) | [<img src="docs/media/twinquiry-tr.jpg" width="220" alt="Türkçe Twinquiry tanıtımını izle">](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-tr.mp4) | [<img src="docs/media/twinquiry-de.jpg" width="220" alt="Twinquiry auf Deutsch ansehen">](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-de.mp4) |
+| [▶ Watch](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-en.mp4) | [▶ İzle](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-tr.mp4) | [▶ Ansehen](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-de.mp4) |
+
+*50 seconds each · Music, no narration · MP4*
+
 ```text
                    Question + source packet
                            /      \

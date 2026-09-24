@@ -4,6 +4,14 @@ Twinquiry, aynı soruyu Claude ve Codex'e ayrı ayrı sorar, sonra modellerin bi
 
 Bu repo bir skill paketi değil, **Python ile çalışan bir terminal aracıdır**. Claude Code veya Codex içinden aracı çalıştırmasını isteyebilirsin; normal terminalden de kullanabilirsin. Araştırma sırasında uygulama kodu üretmez.
 
+## Tanıtım videosu
+
+[<img src="media/twinquiry-tr.jpg" width="280" alt="Twinquiry Türkçe tanıtım videosunu izle">](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-tr.mp4)
+
+[▶ Türkçe videoyu izle](https://github.com/eyupcimen/twinquiry/raw/refs/heads/main/docs/media/twinquiry-tr.mp4) · 50 saniye · Müzikli, seslendirmesiz
+
+[English / Deutsch](../README.md#watch-the-overview)
+
 ## İlk deneme: hesap veya model kotası gerekmez
 
 Python 3.10 veya üstüyle:
